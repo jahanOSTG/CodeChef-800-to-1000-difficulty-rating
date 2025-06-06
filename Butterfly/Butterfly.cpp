@@ -7,6 +7,7 @@ int main() {
 	long long a,b,c;
 	int t;
 	cin>>t;
+	
 	for(int i=0;i<t;i++){
 	    cin>>a>>b>>c;
 	    long d=max({a,b,c});
